@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# 正しい例（フォルダ全体を無視）
+/djangobros_venv/
+
+# 正しい例（特定のファイルを無視）
+.DS_Store
+
+# ワイルドカードの使用例
+*.log
