@@ -1,1 +1,11 @@
-.pdf
+# Python 仮想環境
+djangobros_venv/
+
+# macOS
+.DS_Store
+
+# VS Code 設定
+.vscode/
+
+# その他
+*.pdf
